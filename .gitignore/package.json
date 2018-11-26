@@ -1,0 +1,11 @@
+{
+  "name": "Noa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Noa.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Electrixx A1pha",
+  "license": "ISC"
+}
